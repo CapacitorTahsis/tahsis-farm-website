@@ -1,11 +1,13 @@
 html, body {
-	height: 100%;
-	padding: 0;
+  height: 100%;
+}
+
+body {
+  display: flex;
 }
 
 .main_content {
-	height: 100%;
-	width: 100%;
-	background: #333333;
-	border: black solid 50px;
+  flex: 1;
+  background: #333333;
+  border: black solid 30px;
 }
