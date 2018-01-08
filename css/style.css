@@ -4,6 +4,7 @@ html, body {
 
 .main_content {
 	height: 100%;
+	width: 100%;
 	display: inline-block;
 	background: #333333;
 	border: black solid 50px;
