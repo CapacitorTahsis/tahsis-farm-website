@@ -5,5 +5,5 @@ html, body {
 .main_content {
 	height: 100%;
 	background: #333333;
-	padding: 200px;
+	border: black solid 200px;
 }
