@@ -1,15 +1,11 @@
-html {
+html, body {
 	height: 100%;
-}
-
-body {
-	min-height: 100%;
+	padding: 0;
 }
 
 .main_content {
 	height: 100%;
 	width: 100%;
-	display: inline-block;
 	background: #333333;
 	border: black solid 50px;
 }
