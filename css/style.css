@@ -1,6 +1,9 @@
-html, body {
+html {
 	height: 100%;
-	padding-top: 1px;
+}
+
+body {
+	min-height: 100%;
 }
 
 .main_content {
