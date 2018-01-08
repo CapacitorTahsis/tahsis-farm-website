@@ -6,8 +6,18 @@ body {
   display: flex;
 }
 
-.main_content {
+.main-content {
   flex: 1;
-  background: #333333;
+  background: #262626;
   border: black solid 30px;
+}
+
+.header-text {
+  font-family: 'Montserrat', serif;
+  font-weight: 700;
+  color: #F5F5F5;
+  font-size: 40;
+  position: fixed;
+  bottom: 60;
+  left: 60;
 }
