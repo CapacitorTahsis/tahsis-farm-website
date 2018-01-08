@@ -3,8 +3,8 @@ html, body {
 }
 
 .main_content {
-	float: left;
 	height: 100%;
+	display: inline-block;
 	background: #333333;
 	border: black solid 50px;
 }
