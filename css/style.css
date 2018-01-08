@@ -1,8 +1,8 @@
 body {
-	bgcolor="#000000"
+	background-color: #000000;
 }
 
 #main_content {
-	padding: 50px 50px 50px 50px
-	bgcolor="#2F4F4F"
+	padding: 50px 50px 50px 50px;
+	background-color: #2F4F4F;
 }
