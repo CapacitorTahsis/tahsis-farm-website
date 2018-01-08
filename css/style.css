@@ -1,9 +1,10 @@
 html, body {
 	height: 100%;
+	background: #000000;
 }
 
 .main_content {
 	height: 100%;
 	background: #333333;
-	border: 50px black;
+	padding: 200px 200px 200px 200px
 }
