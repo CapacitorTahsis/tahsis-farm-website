@@ -1,9 +1,5 @@
-html, body {
-	height: 100%;
-}
-
 .main_content {
 	height: 100%;
 	background: #333333;
-	border: black solid 200px;
+	border: black solid 50px;
 }
