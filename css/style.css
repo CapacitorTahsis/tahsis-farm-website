@@ -1,5 +1,5 @@
-body {
-	display: block;
-	margin: 50px;
+.main_content {
+	height: 100%;
+	background: #333333;
+	border: 50px black;
 }
-
