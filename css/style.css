@@ -6,6 +6,11 @@ body {
   display: flex;
 }
 
+hr {
+  width: 45%;
+  height: 0;
+}
+
 .main-content {
   flex: 1;
   background: #262626;
@@ -16,8 +21,18 @@ body {
   font-family: 'Raleway', serif;
   font-weight: 600;
   color: #F5F5F5;
-  font-size: 40;
-  position: absolute;
-  top: 80%;
-  left: 5%;
+  font-size: 40px;
+  position: relative;
+  top: 86%;
+  left: 3%;
+}
+
+.subtext {
+  font-family: 'Raleway', serif;
+  font-weight: 350;
+  color: #F5F5F5;
+  font-size: 15px;
+  position: relative;
+  margin: 3;
+  left: 28%;
 }
