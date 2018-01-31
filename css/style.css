@@ -13,11 +13,11 @@ body {
 }
 
 .header-text {
-  font-family: 'Montserrat', serif;
-  font-weight: 700;
+  font-family: 'Raleway', serif;
+  font-weight: 600;
   color: #F5F5F5;
   font-size: 40;
-  position: fixed;
-  bottom: 60;
-  left: 60;
+  position: absolute;
+  top: 80%;
+  left: 5%;
 }
