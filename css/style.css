@@ -10,6 +10,19 @@ p {
   margin: 0;
 }
 
+li {
+  display: inline-block;
+}
+
+a {
+  font-family: 'Raleway', serif;
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px;
+  font-size: 50px;
+  color: #FFFFFF;
+}
+
 hr {
   width: 35%;
   position: absolute;
@@ -29,7 +42,7 @@ hr {
   color: #F5F5F5;
   font-size: 40px;
   position: relative;
-  top: 90%;
+  top: 77%;
   left: 3%;
 }
 
@@ -41,4 +54,9 @@ hr {
   position: relative;
   margin-top: 8px;
   left: 24%;
+}
+
+.nav-container {
+  position: relative;
+  left: 54%;
 }
