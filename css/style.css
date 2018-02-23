@@ -23,6 +23,10 @@ a {
   color: #FFFFFF;
 }
 
+a:hover {
+  text-shadow: 2px 2px;
+}
+
 hr {
   width: 35%;
   position: absolute;
