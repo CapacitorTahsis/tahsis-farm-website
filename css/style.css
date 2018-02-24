@@ -27,7 +27,15 @@ a:hover {
   text-shadow: 4px 4px #000000;
 }
 
-hr {
+.container-left {
+  float: left;
+}
+
+.container-right {
+  float: right;
+}
+
+.main-hr {
   width: 35%;
   position: absolute;
   margin: 0;
@@ -38,6 +46,12 @@ hr {
   flex: 1;
   background: #262626;
   border: black solid 30px;
+}
+
+.content {
+  color: #F5F5F5;
+  font-family: 'Raleway', serif;
+  font-size: 15px;
 }
 
 .header-text {
