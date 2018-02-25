@@ -23,6 +23,16 @@ a:not(.home-button) {
   color: #FFFFFF;
 }
 
+a.home-button {
+  font-family: 'Raleway', serif;
+  font-weight: 600;
+  color: #F5F5F5;
+  font-size: 40px;
+  position: fixed;
+  top: 77%;
+  left: 3%;
+}
+
 a:hover {
   text-shadow: 4px 4px #000000;
 }
