@@ -47,7 +47,7 @@ a:hover {
 }
 
 .main-hr {
-  width: 35%;
+  width: 30%;
   position: fixed;
   margin: 0;
   height: 0;
@@ -71,7 +71,7 @@ a:hover {
   color: #F5F5F5;
   font-size: 40px;
   position: fixed;
-  top: 77%;
+  top: 81%;
   left: 3%;
 }
 
@@ -82,7 +82,7 @@ a:hover {
   font-size: 15px;
   position: relative;
   margin-top: 8px;
-  left: 24%;
+  left: 35%;
 }
 
 .nav-container {
