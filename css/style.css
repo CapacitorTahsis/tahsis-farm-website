@@ -65,13 +65,12 @@ a:hover {
   font-size: 15px;
 }
 
-.header-text {
+.footer-text {
   font-family: 'Raleway', serif;
   font-weight: 600;
   color: #F5F5F5;
   font-size: 40px;
   position: fixed;
-  top: 81%;
   left: 5%;
 }
 
@@ -83,6 +82,12 @@ a:hover {
   position: fixed;
   margin-top: 8px;
   left: 27%;
+}
+
+.footer {
+	position: fixed;
+	top: 81%;
+	left: 3%;
 }
 
 .nav-container {
