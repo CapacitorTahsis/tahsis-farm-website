@@ -26,6 +26,7 @@ a:not(.home-button) {
 a.home-button {
   font-family: 'Raleway', serif;
   font-weight: 600;
+  text-decoration: none;
   color: #F5F5F5;
   font-size: 40px;
   position: fixed;
