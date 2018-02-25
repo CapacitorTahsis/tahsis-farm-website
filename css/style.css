@@ -70,7 +70,7 @@ a:hover {
   font-weight: 600;
   color: #F5F5F5;
   font-size: 40px;
-  position: fixed;
+  position: relative;
   left: 5%;
 }
 
@@ -81,16 +81,17 @@ a:hover {
   font-size: 15px;
   position: fixed;
   margin-top: 8px;
-  left: 27%;
+  left: 26%;
 }
 
 .footer {
-	position: fixed;
-	top: 81%;
-	left: 3%;
+	position: absolute;
+	top: 87%;
+	left: 4%;
 }
 
 .nav-container {
   position: relative;
-  left: 54%;
+  left: 56%;
 }
+
