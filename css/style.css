@@ -59,7 +59,7 @@ a:hover {
   font-weight: 600;
   color: #F5F5F5;
   font-size: 40px;
-  position: relative;
+  position: fixed;
   top: 77%;
   left: 3%;
 }
