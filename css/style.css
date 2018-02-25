@@ -48,7 +48,7 @@ a:hover {
 
 .main-hr {
   width: 35%;
-  position: absolute;
+  position: fixed;
   margin: 0;
   height: 0;
 }
