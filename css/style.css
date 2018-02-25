@@ -80,7 +80,7 @@ a:hover {
   font-weight: 350;
   color: #F5F5F5;
   font-size: 15px;
-  position: relative;
+  position: fixed;
   margin-top: 8px;
   left: 28%;
 }
