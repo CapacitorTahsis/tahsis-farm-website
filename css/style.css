@@ -4,7 +4,7 @@ html:before, html:after {
   background: black;
   left: 0;
 	right: 0;
-	height: 24px;
+	height: 23.5px;
 }
 
 html:before {
