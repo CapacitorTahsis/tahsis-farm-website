@@ -45,7 +45,7 @@ a.home-button {
   text-decoration: none;
   color: #F5F5F5;
   font-size: 40px;
-  position: fixed;
+  position: relative;
   top: 81%;
   left: 5%;
 }
@@ -80,6 +80,7 @@ a:hover {
   font-weight: 600;
   color: #F5F5F5;
   font-size: 40px;
+  position: relative;
   left: 5%;
 }
 
@@ -106,5 +107,3 @@ a:hover {
   padding: 10px;
   top: 1%;
 }
-
-
