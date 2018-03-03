@@ -16,7 +16,7 @@ html:after {
 }
 
 html {
-	height: 100%;
+	min-height: 100vh;
 	background: #262626;
 	border-left: 20px solid black;
 	border-right: 20px solid black;  
@@ -98,11 +98,11 @@ a:hover {
 	position: fixed;
 	top: 87%;
 	left: 3%;
-	padding: 10px;
+	padding: 15px;
 }
 
 .nav-container {
-  position: absolute;
+  position: fixed;
   left: 56%;
   padding: 10px;
   top: 1%;
