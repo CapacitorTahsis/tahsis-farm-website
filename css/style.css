@@ -55,11 +55,20 @@ li {
 }
 
 .container-left {
-  float: left;
+  position: absolute;
+  width: 40%;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+
 }
 
 .container-right {
-  float: right;
+  position: absolute;  
+  width: 40%;
+  top: 50%;
+  left: 75%;
+  transform: translate(-50%, -50%);
 }
 
 .content {
