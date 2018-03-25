@@ -107,6 +107,13 @@ li {
 	transform: translate(-50%, -50%);
 }
 
+.header {
+	left: 0;
+	right: 0;
+	height: 50px;
+	padding-top: 23.5px;
+}
+
 .main-hr {
   width: 30%;
   position: fixed;
