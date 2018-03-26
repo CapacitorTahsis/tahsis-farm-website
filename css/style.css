@@ -62,20 +62,13 @@ li {
 }
 
 .container-left {
-  position: absolute;
+  float: left;
   width: 40%;
-  top: 50%;
-  left: 25%;
-  transform: translate(-50%, -50%);
-
 }
 
 .container-right {
-  position: absolute;  
+  float: left;
   width: 40%;
-  top: 50%;
-  left: 75%;
-  transform: translate(-50%, -50%);
 }
 
 .content {
@@ -151,6 +144,9 @@ li {
   position: absolute;
   top: 123.5px;
   bottom: 123.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .subtext {
