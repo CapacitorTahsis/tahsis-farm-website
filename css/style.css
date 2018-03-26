@@ -64,17 +64,22 @@ li {
 .container-left {
   float: left;
   width: 40%;
+	padding-right: 40px;
 }
 
 .container-right {
   float: left;
   width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 40px;
 }
 
 .content {
   color: #F5F5F5;
   font-family: 'Raleway', serif;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 .footer {
