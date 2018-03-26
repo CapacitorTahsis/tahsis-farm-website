@@ -140,9 +140,8 @@ li {
 
 .nav-container {
   position: fixed;
-  left: 56%;
-  padding: 15px;
-  top: 1%;
+  right: 0;
+  padding-right: 50px;
 }
 
 .page-content {
