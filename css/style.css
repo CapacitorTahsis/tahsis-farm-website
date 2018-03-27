@@ -23,12 +23,6 @@ html {
 	border-right: 20px solid black;  
 }
 
-body {
-	height: 100%;
-	min-height: 100%;
-	position: relative;
-}
-
 a:not(.home-button) {
   font-family: 'Raleway', serif;
   text-decoration: none;
@@ -129,6 +123,10 @@ li {
 	right: 0;
 	height: 100px;
 	padding-top: 23.5px;
+}
+
+.landing-page {
+	background-image: url(../imgs/art-marion.jpg)
 }
 
 .main-hr {
