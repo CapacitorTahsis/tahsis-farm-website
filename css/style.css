@@ -126,7 +126,9 @@ li {
 }
 
 .landing-page {
-	background-image: url(../imgs/art-marion.jpg)
+	background-image: url(../imgs/art-marion.jpg), url(../imgs/chicken-tall.jpg);
+	background-size: 20% 100%;
+	background-repeat: no-repeat;
 }
 
 .main-hr {
